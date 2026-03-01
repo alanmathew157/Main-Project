@@ -101,13 +101,9 @@ When PPE non-compliance is detected:
 ---
 
 
-## 🚀 Future Improvements
-
-- Deploy fully on Raspberry Pi with optimization
-- Add cloud dashboard monitoring
-- Add IoT integration
-- Improve dataset size for better accuracy
-- Deploy using TensorRT for faster inference
+## Input and Output
+![Input](input.png)
+![Output](output.png)
 
 ---
 
